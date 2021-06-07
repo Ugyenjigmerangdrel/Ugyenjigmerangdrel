@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+I'm Ugyen, a 12th grader student, avid programmer and an explorer.
+🔭 I’m currently working ––––.
+🌱 I’m currently learning Laravel
+👯 I’m looking to collaborate on any PHP based projects
+🤔 I’m looking for help with learning to write efficient code
+📫 How to reach me: ugyen.jigme2018@gmail.com
+😄 Pronouns: He/Him
+⚡ Read My Articles at ugyennote.com
 
 <!--
 **Ugyenjigmerangdrel/Ugyenjigmerangdrel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
