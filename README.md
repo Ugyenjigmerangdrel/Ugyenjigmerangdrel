@@ -5,7 +5,7 @@
 I'm Ugyen, an avid programmer and an explorer.
 - 🔭 I’m currently working with Bhutan Breakthrough 3.0.
 - 🌱 I’m currently learning -----
-- 👯 I’m looking to collaborate on any PHP based projects
+- 👯 I’m looking to collaborate on any PHP, React.js, Node.js, Python based projects
 - 📫 How to reach me: ugyen.jigme2018@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Read My Articles at https://blog.ugyennote.com
