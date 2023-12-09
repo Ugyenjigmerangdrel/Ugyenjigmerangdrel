@@ -10,6 +10,8 @@ I'm Ugyen, an avid programmer and an explorer.
 - 😄 Pronouns: He/Him
 - ⚡ Read My Articles at https://blog.ugyennote.com
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Ugyenjigmerangdrel&theme=onedark)](https://github.com/Ugyenjigmerangdrel/github-profile-trophy)
+
 <!--
 **Ugyenjigmerangdrel/Ugyenjigmerangdrel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
