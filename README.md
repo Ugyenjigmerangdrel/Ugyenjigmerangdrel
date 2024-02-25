@@ -2,8 +2,8 @@
 
 ### Hi there 👋
 
-I'm Ugyen, an avid programmer and an explorer.
-- 👯 I’m looking to collaborate on any PHP, React.js, Node.js, Python, Java based projects
+I'm Ugyen, a FullStack Developer!
+- 👯 I’m looking to collaborate on any MERN Stack, PHP, Python, Java based projects
 - 📫 How to reach me: ugyen.jigme2018@gmail.com
 - ⚡ Read My Articles at https://blog.ugyennote.com
 
