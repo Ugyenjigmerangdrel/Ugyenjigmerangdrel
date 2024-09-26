@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Kitchen Management System<br>👯 I’m looking to collaborate on MERN, PHP, Python, Java based projects<br>🌱 I’m currently learning AI/ML<br>
+🔭 I’m currently working on Kitchen Management System<br>👯 I’m looking to collaborate on MERN, PHP, Python, Java based projects<br>🌱 I’m currently learning Deep Learning<br>
 
 
 # 📊 GitHub Stats:
